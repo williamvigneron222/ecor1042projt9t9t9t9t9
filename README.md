@@ -7,7 +7,7 @@
 -  __Email__ - juliahanlon@cmail.carleton.ca
 
 ## Description:
-&nbsp;&nbsp;&nbsp;&nbsp;The interactive program allows the user to load data from a given file that the user inputs and then you can sort the data, find a best fitting line that goes through the existing data or create a histogram. The batch UI works the same way where the program intakes a file name that has all the commands that the user wants to run.
+The interactive program allows the user to load data from a given file that the user inputs and then you can sort the data, find a best fitting line that goes through the existing data or create a histogram. The batch UI works the same way where the program intakes a file name that has all the commands that the user wants to run.
 
 ## Dependencies:
 - [Python 3.11.7](https://www.python.org/downloads/release/python-3117/)
@@ -44,7 +44,7 @@
 - `curve_fit` function
 
 ## Usage: 
-&nbsp;&nbsp;&nbsp;&nbsp;Please refer to the user video provided to find detailed instructions on the use of this program.
+Please refer to the user video provided to find detailed instructions on the use of this program.
 
 ## License: 
 MIT License
