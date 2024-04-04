@@ -9,9 +9,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The interactive program allows the user to load data from a given file that the user inputs and then you can sort the data, find a best fitting line that goes through the existing data or create a histogram. The batch UI works the same way where the program intakes a file name that has all the commands that the user wants to run.
 
 ## Dependencies:
-- <a href="https://www.python.org/downloads/release/python-3117/" target="_blank">Python 3.11.7</a>
-- <a href="https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html" target="_blank">matplotlib.pyplot</a>
-- <a href="https://numpy.org/" target="_blank">Numpy</a>
+- [Python 3.11.7](https://www.python.org/downloads/release/python-3117/)
+- [matplotlib.pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
+- [Numpy](https://numpy.org/)
 
 ## Installation:
 
