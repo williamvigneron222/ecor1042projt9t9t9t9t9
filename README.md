@@ -7,7 +7,7 @@
 -  __Email__ - juliahanlon@cmail.carleton.ca
 
 ## Description:
-The interactive program allows the user to load data from a given file that the user inputs and then you can sort the data, find a best fitting line that goes through the existing data or create a histogram. The batch UI provides the same functionality, the program intakes a file name that has all the commands that the user wants to run.
+The interactive program allows the user to load data from a given file that the user inputs and then you can sort the data, find a best fitting line that goes through the existing data or create a histogram. The batch UI provides the same functionality, the program intakes a text file containing batch commands and outputs the desired function.
 
 ## Dependencies:
 - [Python 3.11.7](https://www.python.org/downloads/release/python-3117/)
