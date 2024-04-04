@@ -2,8 +2,9 @@
  #### Date: April 10th, 2024
  #### Software: Python 3.11.7 
  #### Contact Information: 
- __Team Leader__ – Julia Hanlon
- __Email__ - juliahanlon@cmail.carleton.ca
+-  __Team Leader__ – Julia Hanlon
+ 
+-  __Email__ - juliahanlon@cmail.carleton.ca
 
 ## Description:
 &nbsp;&nbsp;&nbsp;&nbsp;The interactive program allows the user to load data from a given file that the user inputs and then you can sort the data, find a best fitting line that goes through the existing data or create a histogram. The batch UI works the same way where the program intakes a file name that has all the commands that the user wants to run.
