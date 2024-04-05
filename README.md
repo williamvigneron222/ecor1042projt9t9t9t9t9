@@ -16,6 +16,35 @@ The interactive program allows the user to load data from a given file that the 
 
 ## Installation:
 
+### __Install Python 3.11.7:__
+#### For Windows and Mac OS:
+1. Go to the [Python official website](https://www.python.org/downloads/release/python-3117/) and download the installer package. Mac OS has a specific package that should only be used for Mac OS and Windows has a variety of packages.
+2. Find the release version ‘Python 3.11.7’ and download. Once downloaded, follow any further setup instructions.
+
+### __Install Pip, Matplotlib, and Numpy:__ 
+_(ref. ECOR 1042 Data Management, “Installing Matplotlib, NumPy, and SciPy”, Carleton University):_
+#### For Windows:
+1.	To install pip, type the following command in the desktop terminal. This will install pip if it hasn’t already been installed with the python installation. 
+`python -m ensurepip`
+2.	To install Matplotlib, type the following command in the desktop terminal.
+`python -m pip install matplotlib`
+3.	To install NumPy, type the following command in the desktop terminal.
+`python -m pip install numpy`
+
+#### For Mac OS:
+1.	To install, type the following command in the desktop terminal. This will install pip if it hasn’t already been installed with the python installation. 
+`$ python3 -m ensurepip`
+2.	To install Matplotlib, type the following command in the desktop terminal.
+`$ python3 -m pip install matplotlib`
+3.	To install NumPy, type the following command in the desktop terminal. 
+`$ python3 -m pip install numpy`
+
+### __Project Installation:__
+Once the libraries are installed, extract the python files from the .zip file. Open the `batch_UI.py` or `text_UI.py` module to use the program. Ensure all files remain in the same folder.
+
+
+
+
 ## Credits:
 ### Julia:
 - `character_weapon_list` function
